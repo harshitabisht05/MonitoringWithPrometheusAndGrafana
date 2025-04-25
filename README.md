@@ -1,7 +1,8 @@
 Monitoring Stack with Prometheus and Grafana
 
- 
+git repo: https://github.com/harshitabisht05/MonitoringWithPrometheusAndGrafana.git
 Created by Harshita Bisht | SAP- 500102017
+
 This project sets up a complete monitoring stack using Prometheus and Grafana with Node Exporter for system metrics collection.
 
 Architecture
@@ -150,8 +151,6 @@ No packages published
 Publish your first package
 
 
-Contributors 2
+Contributors 1
 
-harshjindal18 harsh jindal
-
-divyamgarg1
+harshita bisht
