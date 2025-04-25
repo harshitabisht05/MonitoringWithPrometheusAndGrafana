@@ -21,7 +21,7 @@ Quick Start
 2.	Run the monitoring stack:
 
 docker-compose up -d
-[images/3.png]
+![Monitoring Stack](images/3.png)
 Accessing the Services
 
  	Prometheus: http://localhost:9090
